@@ -1,6 +1,6 @@
 # PADIC Africa - React Web Application
 
-A modern, responsive web application for PADIC Africa restructured from the Studiova template into a clean, component-driven **React + Vite** single-page architecture with **React Router v6**.
+A modern, responsive web application for PADIC Africa, Panacea For Developmental & Infrastructural Challenges For Africa Initiative (PADIC-AFRICA ) formerly known as DEVCON is a nongovernmental organization geared towards improving the quality of rural environments, better living standards in rural communities, and ensuring a society where all stakeholders are able to play their part as agents of sustainable development.  **React Router v6**.
 
 ---
 
